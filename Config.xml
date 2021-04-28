@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Configs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <lines>
+    <Line>
+      <Done>false</Done>
+      <Note>Option1</Note>
+    </Line>
+    <Line>
+      <Done>true</Done>
+      <Note>Option2</Note>
+    </Line>
+    <Line>
+      <Done>false</Done>
+      <Note>Option3</Note>
+    </Line>
+  </lines>
+</Configs>
